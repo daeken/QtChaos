@@ -1,0 +1,3 @@
+include chaosweb/config/deployment.ini_tmpl
+recursive-include chaosweb/public *
+recursive-include chaosweb/templates *
